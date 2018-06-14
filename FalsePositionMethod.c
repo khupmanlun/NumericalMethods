@@ -1,4 +1,4 @@
-//Say the f(x) = x**2 - 3 ....Just change the Macro function()  as and when necessary
+//Say the f(x) = x**2 - 3 ....Just change the  function()  as and when necessary
 #include<stdio.h>
 #include<stdlib.h>
 #include<math.h>
